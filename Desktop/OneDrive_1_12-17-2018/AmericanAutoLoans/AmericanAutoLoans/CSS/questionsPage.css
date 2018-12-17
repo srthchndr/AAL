@@ -1,0 +1,54 @@
+﻿* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: lightgoldenrodyellow;
+}
+
+.header {
+    background-image: url('../Images/aal.jpg');
+    height: 275px;
+    width: 100%;
+}
+
+.button {
+    text-align: center;
+}
+
+    .button button {
+        padding: 10px;
+        background-color: dodgerblue;
+        width: 300px;
+        text-align: center;
+        color: white;
+        margin-top: 4px;
+    }
+
+.heading{
+    background-color: midnightblue;
+    text-align: center;
+    color: white;
+}
+
+.questions {
+    color: cornflowerblue;
+}
+
+.answers {
+    margin-top: 10px;
+}
+
+ul {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+li {
+    margin-left: 30px;
+}
+

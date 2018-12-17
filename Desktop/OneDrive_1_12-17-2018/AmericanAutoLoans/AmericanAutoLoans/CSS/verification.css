@@ -1,0 +1,43 @@
+﻿* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    background-image: url('../Images/aal.jpg');
+    height: 275px;
+    width: 100%;
+}
+
+h2 {
+    background-color:black;
+    color:lightgoldenrodyellow;
+    padding:5px;
+}
+
+.red {
+    color:red;
+}
+
+.verify{
+    padding:10px;
+}
+
+p {
+    padding-bottom:5px;
+}
+
+input{
+    width:250px;
+}
+
+button {
+    width:20em;
+    color:cornflowerblue;
+}

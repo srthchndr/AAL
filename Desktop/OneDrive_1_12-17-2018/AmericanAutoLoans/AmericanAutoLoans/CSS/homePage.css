@@ -1,0 +1,105 @@
+﻿ *{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+
+body{
+    display:flex;
+    flex-direction:column;
+}
+
+.header {
+    background-image: url('../Images/aal.jpg');
+    height: 275px;
+    width: 100%;
+}
+
+.navDiv {
+    display:flex;
+    background-color: lightgoldenrodyellow;
+    padding: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.navDiv div{
+    flex:1;
+}
+
+.navDiv a{
+    text-decoration:none;
+}
+
+.navBtn {
+    padding-left:25px;
+    padding-right:25px;
+    padding:10px;
+}
+
+.imageBg {
+    background-image: url('../Images/body.jpeg');
+    height: 785px;
+    width: 100%;
+    background-size: contain;
+    position: relative;
+}
+
+    .imageBg h2 {
+        position:absolute;
+        top:40px;
+        left: 350px;        
+    }
+
+        .imageBg h2 p {
+            color: #f0f0f0;
+            font: bold 55px/110px Helvetica, Sans-Serif;
+            letter-spacing: -1px;
+            background: rgb(0,0,0);
+            background: rgba(0, 0, 0, 0.7);
+            padding-left: 20px;
+            padding-right: 40px;
+        }
+
+            .imageBg h2 p.small {
+                font: bold 45px Helvetica, Sans-Serif;
+                padding: 10px;
+                position: relative;
+            }
+
+footer {
+    display: flex;
+    background-image: url('../Images/watermarkedbg.png');
+}
+footer a{
+    text-decoration: none;
+    color:blue;
+}
+
+footer a:visited {
+    color: none;
+}
+
+    footer div {
+        padding: 10px;
+        flex: 1;
+    }
+
+.desc {
+    display: flex;
+}
+.focus{
+    color: green;
+}
+
+    .desc  {
+        padding: 10px;
+        flex: 1;
+    }
+    .transition{
+        -webkit-transition: height 2s;
+        transition: height 2s;
+    }
+    .transition :target{
+        height: 150px;
+    }
