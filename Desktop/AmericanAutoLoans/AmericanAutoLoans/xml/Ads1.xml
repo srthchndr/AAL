@@ -1,0 +1,28 @@
+<Advertisements>
+   <Ad>
+      <ImageUrl>../Images/BofaHomeLoan.jpg</ImageUrl>
+      <NavigateUrl>https://www.bankofamerica.com/mortgage/</NavigateUrl>
+      <AlternateText>
+         Home Loans
+      </AlternateText>
+      <Impressions>20</Impressions>
+      <Keyword>Home</Keyword>
+   </Ad>
+
+   <Ad>
+      <ImageUrl>../Images/LendingTree.jpg</ImageUrl>
+      <NavigateUrl>https://www.lendingtree.com/home/</NavigateUrl>
+      <AlternateText>Lending Tree</AlternateText>
+      <Impressions>20</Impressions>
+      <Keyword>Home</Keyword>
+   </Ad>
+
+   <Ad>
+      <ImageUrl>../Images/WellsFargo.jpg</ImageUrl>
+      <NavigateUrl>https://www.wellsfargo.com/mortgage/rates/compare-loans/</NavigateUrl>
+      <AlternateText>Wells Fargo</AlternateText>
+      <Impressions>20</Impressions>
+      <Keyword>Home</Keyword>
+   </Ad>
+
+</Advertisements>

@@ -1,0 +1,34 @@
+<Advertisements>
+   <Ad>
+      <ImageUrl>../Images/Statefarm.jpg</ImageUrl>
+      <NavigateUrl>https://www.statefarm.com/insurance/auto</NavigateUrl>
+      <AlternateText>StateFarm</AlternateText>
+      <Impressions>20</Impressions>
+      <Keyword>Insurance</Keyword>
+   </Ad>
+
+   <Ad>
+      <ImageUrl>../Images/Nationwide.jpg</ImageUrl>
+      <NavigateUrl>https://www.nationwide.com/texas-auto-insurance.jsp</NavigateUrl>
+      <AlternateText>Nationwide</AlternateText>
+      <Impressions>20</Impressions>
+      <Keyword>Insurance</Keyword>
+   </Ad>
+
+   <Ad>
+      <ImageUrl>../Images/Geico.jpg</ImageUrl>
+      <NavigateUrl>https://www.geico.com/auto-insurance/</NavigateUrl>
+      <AlternateText>Geico</AlternateText>
+      <Impressions>20</Impressions>
+      <Keyword>Insurance</Keyword>
+   </Ad>
+
+  <Ad>
+    <ImageUrl>../Images/CarInsurance.jpg</ImageUrl>
+    <NavigateUrl>http://www.insurantly.com/</NavigateUrl>
+    <AlternateText>Car Insurance</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>Insurance</Keyword>
+  </Ad>
+  
+</Advertisements>

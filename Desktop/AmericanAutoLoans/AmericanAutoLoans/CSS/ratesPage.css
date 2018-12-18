@@ -1,0 +1,76 @@
+﻿* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+}
+
+    header h2 {
+        color: darkcyan;
+        padding: 10px;
+    }
+
+    header p b {
+        padding: 10px;
+        color: darksalmon;
+    }
+
+.ratesTable table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+}
+
+.ratesTable th {
+    background-color: chocolate;
+    padding: 10px;
+    text-align: center;
+}
+
+.ratesTable td {
+    padding: 10px;
+    text-align: center;
+}
+
+.ratesTable tr:nth-child(2n) {
+    background-color: burlywood;
+}
+
+.header {
+    background-image: url('../Images/aal.jpg');
+    height: 275px;
+    width: 100%;
+}
+
+.loanTerms {
+    background-color: lightgoldenrodyellow;
+}
+
+    .loanTerms li {
+        margin-left: 40px;
+        padding: 5px;
+    }
+
+.button {
+    text-align: center;
+}
+
+    .button button {
+        padding: 10px;
+        background-color: dodgerblue;
+        width: 300px;
+        text-align: center;
+        color: white;
+        margin-top: 4px;
+    }
+

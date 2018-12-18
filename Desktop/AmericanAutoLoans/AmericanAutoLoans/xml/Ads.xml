@@ -1,0 +1,25 @@
+<Advertisements>
+   <Ad>
+      <ImageUrl>../Images/Chase.jpg</ImageUrl>
+      <NavigateUrl>https://autofinance.chase.com/auto-finance/home</NavigateUrl>
+      <AlternateText>Chase Auto Finance</AlternateText>
+      <Impressions>20</Impressions>
+      <Keyword>Car</Keyword>
+   </Ad>
+
+   <Ad>
+      <ImageUrl>../Images/CapitalOne.jpg</ImageUrl>
+      <NavigateUrl>https://www.capitalone.com/auto-financing</NavigateUrl>
+      <AlternateText>CapitalOne Auto Loans</AlternateText>
+      <Impressions>20</Impressions>
+      <Keyword>Car</Keyword>
+   </Ad>
+
+   <Ad>
+      <ImageUrl>../Images/RoadLoans.png</ImageUrl>
+      <NavigateUrl>https://roadloans.com/car-loans</NavigateUrl>
+      <AlternateText>RoadLoans</AlternateText>
+      <Impressions>20</Impressions>
+      <Keyword>Car</Keyword>
+   </Ad>
+</Advertisements>
